@@ -1,0 +1,7 @@
+transaction_id,customer,amount,quantity
+T001,Asha,1200,2
+T002,Ravi,800,1
+T003,Meena,1500,3
+T004,Kiran,,-1
+T004,Kiran,500,1
+T006,Arun,2500,2

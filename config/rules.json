@@ -1,0 +1,7 @@
+{
+  "required_columns": ["transaction_id", "customer", "amount", "quantity"],
+  "unique_columns": ["transaction_id"],
+  "non_negative_columns": ["amount", "quantity"],
+  "ranges": {"amount": [0, 100000]},
+  "pass_threshold": 90
+}
